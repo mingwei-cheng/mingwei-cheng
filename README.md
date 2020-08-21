@@ -1,5 +1,11 @@
-### Hi there 👋
+![Banner](https://raw.githubusercontent.com/mingwei-cheng/mingwei-cheng/master/banner.jpg)
 
+Hi i'm Cheng
+
+- 🔭 I’m currently working in Hangzhou
+- 📫 How to reach me: mingwei-cheng@outlook.com
+
+![]( https://visitor-badge.glitch.me/badge?page_id=mingwei-cheng
 <!--
 **mingwei-cheng/mingwei-cheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
