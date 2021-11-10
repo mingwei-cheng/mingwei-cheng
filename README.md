@@ -1,8 +1,8 @@
 ![Banner](https://raw.githubusercontent.com/mingwei-cheng/mingwei-cheng/master/banner.jpg)
 
-Hi i'm Cheng, I'm come from China, i'm a java development engineer, with 2+ years experience as Java developer.
+Hi i'm Cheng, I'm come from China, i'm a java development engineer, with 3+ years experience as Java developer.
 
-- 🔭 I’m currently working in Hangzhou
+- 🔭 I’m currently working in MOGU-Inc.
 - 📫 How to reach me: mingwei-cheng@outlook.com
 
 <!--
